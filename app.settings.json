@@ -1,6 +1,6 @@
 {
-  "basePath": "http://localhost:5049/",
-  "baseAppPath": "http://localhost:4200/",
+  "basePath": "http://13.235.132.138/",
+  "baseAppPath": "http://35.154.187.255/",
   "imagePath": "",
   "encrypt": true,
   "maxFileSize": 3145728,
