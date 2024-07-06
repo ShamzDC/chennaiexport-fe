@@ -1,5 +1,5 @@
 {
-  "basePath": "http://development.eba-qfdvsgdf.ap-south-1.elasticbeanstalk.com/",
+  "basePath": "http://apidevelopment.eba-qfdvsgdf.ap-south-1.elasticbeanstalk.com/",
   "baseAppPath": "http://35.154.187.255/",
   "imagePath": "",
   "encrypt": true,
